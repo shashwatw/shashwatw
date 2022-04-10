@@ -17,7 +17,7 @@
   Hi, I'm Shashwat Wankhedekar, Tech freak
   <br>
   <br>
-  🔬 I'm currently studying for a bachelor's degree in VIT Vellore Computer Science Department
+  🔬 I'm currently studying for a Bachelor's degree in VIT-Vellore, Computer Science Department
   <!-- <br>
   🎓 I graduated from Black Sea Technical University Computer Engineering Department -->
   <br>
