@@ -5,14 +5,6 @@
 </h1>
 
 
-
-  
-
-
-
-
-
-
 <br>
 <p align="center">
   Hi, I'm Shashwat Wankhedekar, Tech freak
@@ -100,11 +92,15 @@
   <code><img title="Android" height="25" src="images/android.svg"></code> -->
   <code><img title="GitHub" height="25" src="github.svg"></code>
   <code><img title="Solidity" height="25" src="solidity1.svg"></code>
+  <br>
   <!-- <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code> -->
   <!-- <code><img title="Flask" height="25" src="images/flask.png"></code> -->
-</p>
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatwankhedekar&langs_count=5&theme=omni)]()
+  <br>  
+  </p>
 <hr>
 
 <!-- <h2 align="center">⚡ Stats ⚡</h2>
@@ -155,6 +151,7 @@
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4> -->
 
+  
 
 <p align="center">
   
