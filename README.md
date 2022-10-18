@@ -1,17 +1,18 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-<!--     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2B93F7&background=68FF1900&width=404&lines=Hello+There+!+%F0%9F%91%8B;This+is+Shashwat+Wankhedekar...;Nice+to+see+you+here+!&center=true&size=23">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&color=fa02d4&background=68FF1900&width=404&lines=Hello+There+!+%F0%9F%91%8B;This+is+Shashwat+Wankhedekar...;Nice+to+see+you+here+!&center=true&size=23">
   </a>
 </h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/shashwatwankhedekar/" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/shashwatwankhed1" title="HackerRank Profile"><img width="22" src="hackerrank.png"> HackerRank</a></code>
-<!--   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
-  <code><a href="https://www.instagram.com/shashwatwankhedekar/" title="Instagram Profile"><img width="22" src="instagram.svg"> Instagram</a></code>
-</h5>
+
+
+  
+
+
+
+
+
+
 <br>
 <p align="center">
   Hi, I'm Shashwat Wankhedekar, Tech freak
@@ -32,8 +33,45 @@
   📫 How to reach me: <a href="mailto: shashwatwankhedekar@gmail.com">shashwatwankhedekar@gmail.com</a>
 </p>
 
+<div align="center">
+  
+
+
+  ![](https://komarev.com/ghpvc/?username=shashwatwankhedekar&color=blueviolet&label=Profile+Views)
+
+  
+<!--- social media icons, you can find them in assets directory of this repo --->
+<br>
+  
+
+  
+
+
+<!--- a bit of vertical space & languages text --->
+  
+
+
+<h5 align="center">
+    <a href="https://twitter.com/SWankhedekar">
+    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
+</a>  
+  <a href="https://www.linkedin.com/in/shashwatwankhedekar" target="_blank">
+  <img height="55" alt="Shashwat Wankhedekar | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+</a> 
+
+<a href="https://www.instagram.com/shashwatwankhedekar" target="_blank">
+  <img height="55" alt="Shashwat Wankhedekar | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
+</a>
+</h5>
+
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+
+  
+<img height="65" alt="Shashwat Wankhedekar | Facebook" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
+
+
+<div></div>
+<br>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="c.svg"></code>
