@@ -7,7 +7,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Shashwat Wankhedekar, Tech freak
+  Hi, I'm Shashwat Wankhedekar, Tech Enthusiast
   <br>
   <br>
   🔬 I'm currently studying for a Bachelor's degree in VIT-Vellore, Computer Science Department
