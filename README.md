@@ -91,7 +91,7 @@
   <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
   <code><img title="Android" height="25" src="images/android.svg"></code> -->
   <code><img title="GitHub" height="25" src="github.svg"></code>
-  <code><img title="Solidity" height="25" src="solidity1.svg"></code>
+  <code><img title="Solidity" height="25" src="solidity.png"></code>
   <br>
 <!--   <code><img title="MySQL" height="25" src="images/mysql.svg"></code> -->
   <code><img title="npm" height="25" src="npm.png"></code>
