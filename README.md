@@ -77,7 +77,7 @@
   <code><img title="CSS" height="25" src="css.svg"></code>
 <!--   <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="Gulp" height="25" src="images/gulp.svg"></code> -->
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="React" height="25" src="react.png"></code>
 <!--   <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
@@ -94,8 +94,8 @@
   <code><img title="Solidity" height="25" src="solidity1.svg"></code>
   <br>
 <!--   <code><img title="MySQL" height="25" src="images/mysql.svg"></code> -->
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="linux" height="25" src="images/linux.svg"></code>
+  <code><img title="npm" height="25" src="npm.png"></code>
+  <code><img title="linux" height="25" src="linux.png"></code>
 <!--   <code><img title="PHP" height="25" src="images/php.svg"></code> -->
   <!-- <code><img title="Flask" height="25" src="images/flask.png"></code> -->
 
