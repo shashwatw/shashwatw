@@ -11,16 +11,12 @@
   <br>
   <br>
   🔬 I'm currently studying for a Bachelor's degree in VIT-Vellore, Computer Science Department
-  <!-- <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department -->
   <br>
   🎓 I graduated from Modern Delhi Public School
   <br>
   💻 I love writing code and learn anythings about it
   <br>
   📚 I’m currently learning BlockChain Dev
-  <!-- <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
   <br>
   📫 How to reach me: <a href="mailto: shashwatwankhedekar@gmail.com">shashwatwankhedekar@gmail.com</a>
 </p>
@@ -29,7 +25,6 @@
   
 
 
-  ![](https://komarev.com/ghpvc/?username=shashwatwankhedekar&color=blueviolet&label=Profile+Views)
 
   
 <!--- social media icons, you can find them in assets directory of this repo --->
@@ -115,5 +110,5 @@
   
 </p>
   
-<div align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<div align="center"> <img src="https://github.com/shashwatwankhedekar/shashwatwankhedekar/blob/output/github-contribution-grid-snake.svg" /></div>
 
