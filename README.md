@@ -4,10 +4,10 @@
   </a>
 </h1>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shashwatwankhedekar&label=Profile%20views&color=ff0000&style=flat" alt="shashwatwankhedekar" />&nbsp;&nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px" height = "50">
 <br>
 <p align="center">
-  Hi, I'm Shashwat Wankhedekar, Tech Enthusiast
+  Hi, I'm Shashwat Wankhedekar, Tech Enthusiast<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px">&nbsp;
   <br>
   <br>
   🔬 I'm currently studying for a Bachelor's degree in VIT-Vellore, Computer Science Department
@@ -18,7 +18,8 @@
   <br>
   📚 I’m currently learning BlockChain Dev
   <br>
-  📫 How to reach me: <a href="mailto: shashwatwankhedekar@gmail.com">shashwatwankhedekar@gmail.com</a>
+  📫 How to reach me: &nbsp;&nbsp;<a href = "mailto: shashwatwankhedekar@gmail.com"><img align="center" src="https://camo.githubusercontent.com/9f8403b6cb58d427fe1fcaafdf1cf00299d0bf2ef53b14a5e32e66ccf657876d/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d676d61696c2e737667" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href = "https://linkedin.com/in/shashwatwankhedekar"><img align="center" src="https://raw.githubusercontent.com/karmathecoder/karmathecoder/main/source/linkedin.gif" height="35" width="40" /></a>
 </p>
 
 <div align="center">
