@@ -12,11 +12,13 @@
   <br>
   🔬 I'm currently studying for a Bachelor's degree in VIT-Vellore, Computer Science Department
   <br>
-  🎓 I graduated from Modern Delhi Public School
+  🎓 I know intermediate Blockchain Development and a bit of frontend
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and read articles about it
   <br>
-  📚 I’m currently learning BlockChain Dev
+  📚 I’m currently learning Backend Dev
+  <br>
+  ✨ For collabs, feel free to connect with me...
   <br>
   📫 How to reach me: &nbsp;&nbsp;<a href = "mailto: shashwatwankhedekar@gmail.com"><img align="center" src="https://camo.githubusercontent.com/9f8403b6cb58d427fe1fcaafdf1cf00299d0bf2ef53b14a5e32e66ccf657876d/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d676d61696c2e737667" height="30" width="40" /></a>&nbsp;&nbsp;
   <a href = "https://linkedin.com/in/shashwatwankhedekar"><img align="center" src="https://raw.githubusercontent.com/karmathecoder/karmathecoder/main/source/linkedin.gif" height="35" width="40" /></a>
@@ -110,6 +112,8 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=shashwatwankhedekar&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
   
 </p>
+  
+  <a width="400px" href="http://www.github.com/shashwatwankhedekar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=snaka&bg_color=1f222e&color=ffffff&line=7c2ae7&point=fe95d5&area_color=7c2ae7&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   
 <div align="center"> <img src="https://github.com/shashwatwankhedekar/shashwatwankhedekar/blob/output/github-contribution-grid-snake.svg" /></div>
 
