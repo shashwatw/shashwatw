@@ -42,60 +42,31 @@
 
 
 <h5 align="center">
-    <a href="https://twitter.com/SWankhedekar">
-    <img height="55" src="https://user-images.githubusercontent.com/60597290/152035696-80cad2ec-b4dd-4552-88e6-b6b466124f5b.png" />
-</a>  
-  <a href="https://www.linkedin.com/in/shashwatwankhedekar" target="_blank">
-  <img height="55" alt="Shashwat Wankhedekar | LinkedIN"  src="https://user-images.githubusercontent.com/60597290/152035581-a7c6c0c3-65c3-4160-89c0-e90ddc1e8d4e.png"/>
+<a href="https://twitter.com/shashwatwankhedekar">
+    <img height="60" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" />
+</a> 
+<a href="https://www.linkedin.com/in/shashwatwankhedekar/">
+  <img height="60" alt="RashidWassan | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
 </a> 
 
-<a href="https://www.instagram.com/shashwatwankhedekar" target="_blank">
-  <img height="55" alt="Shashwat Wankhedekar | Instagram"  src="https://user-images.githubusercontent.com/60597290/152036063-21242e52-af65-4a33-af5d-790466244407.png" />
+<a href="https://www.instagram.com/shashwatwankhedekar">
+  <img height="60" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
 </a>
 </h5>
 
 <hr>
-
-  
-<img height="65" alt="Shashwat Wankhedekar | Facebook" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
-
-
-<div></div>
+<div>&nbsp;</div>
+<img height="65" alt="Languages and tools text" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
 <br>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="c.svg"></code>
-  <code><img title="C++" height="25" src="cpp.svg"></code>
-  <!-- <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code> -->
-  <code><img title="Javascript" height="25" src="javascript.svg"></code>
-  <!-- <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code> -->
-  <code><img title="HTML5" height="25" src="html5.svg"></code>
-  <code><img title="CSS" height="25" src="css.svg"></code>
-<!--   <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code> -->
-  <code><img title="React" height="25" src="react.png"></code>
-<!--   <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="vscode.png"></code> -->
-  <!-- <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code> -->
-<!--   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="Unity" height="25" src="images/unity3d.svg"></code>
-  <code><img title="Android" height="25" src="images/android.svg"></code> -->
-  <code><img title="GitHub" height="25" src="github.svg"></code>
-  <code><img title="Solidity" height="25" src="solidity.png"></code>
-  <br>
-<!--   <code><img title="MySQL" height="25" src="images/mysql.svg"></code> -->
-  <code><img title="npm" height="25" src="npm.png"></code>
-  <code><img title="linux" height="25" src="linux.png"></code>
-<!--   <code><img title="PHP" height="25" src="images/php.svg"></code> -->
-  <!-- <code><img title="Flask" height="25" src="images/flask.png"></code> -->
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152362823-eb0e032a-5c84-4832-803c-c77bf5b558a0.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/164893707-4c275cb6-c536-4173-bfc4-3d6cc1bdb6c1.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366154-ec1ddf07-fcf8-41f5-a5f8-ccfc331622a2.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366741-4ebfc910-49b4-4365-829d-89f9a5873ff5.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152363164-01140f44-5328-4ea3-8d95-fec21af7e295.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/152366195-2a7a5be2-acc8-485c-9908-861bcfaa3f2b.png" />
+<img height="100" src="https://user-images.githubusercontent.com/60597290/164893705-6928f187-fa61-4174-abba-bfd8d93b6fb2.png" />
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatwankhedekar&langs_count=5&theme=omni)]()
   <br>  
