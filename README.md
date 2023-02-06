@@ -12,7 +12,7 @@
   <br>
   🔬 I'm currently studying for a Bachelor's degree in VIT-Vellore, Computer Science Department
   <br>
-  🎓 I know intermediate Blockchain Development and a bit of frontend
+  🎓 I know intermediate Blockchain Development and a bit of frontend development
   <br>
   💻 I love writing code and read articles about it
   <br>
