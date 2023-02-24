@@ -30,7 +30,7 @@
 
 
   
-<!--- social media icons, you can find them in assets directory of this repo --->
+<-- media icons, find them in assets directory of this repo --->
 <br>
   
 
