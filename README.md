@@ -16,7 +16,7 @@
   <br>
   💻 I love writing code and read articles about it
   <br>
-  📚 I’m currently learning Backend Dev
+<!--   📚 I’m currently learning Backend Dev -->
   <br>
   ✨ For collabs, feel free to connect with me...
   <br>
