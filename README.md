@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=22&color=fbffa8&background=68FF1900&width=404&lines=Hello+There+!+%F0%9F%91%8B;This+is+Shashwat+Wankhedekar...;&center=true&size=23">
   </a>
 </h1>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashwatwankhedekar&label=Profile%20views&color=ff0000&style=flat" alt="shashwatwankhedekar" />&nbsp;&nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px" height = "50">
 <br>
 <p align="center">
