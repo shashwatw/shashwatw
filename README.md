@@ -36,7 +36,6 @@
   <img height="60" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
 </a>
 </h5>
-
 <hr>
 <div>&nbsp;</div>
 <img height="65" alt="Languages and tools text" src="https://user-images.githubusercontent.com/60597290/152353234-0715ffd6-7680-4536-9fdc-ef1abc74c469.svg" />
