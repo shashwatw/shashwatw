@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=22&color=fbffa8&background=68FF1900&width=404&lines=Hello+There+!+%F0%9F%91%8B;This+is+Shashwat+Wankhedekar...;&center=true&size=23">
   </a>
 </h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shashwatwankhedekar&label=Profile%20views&color=ff0000&style=flat" alt="shashwatwankhedekar" />&nbsp;&nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px" height = "50">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shashwatw&label=Profile%20views&color=ff0000&style=flat" alt="shashwatwankhedekar" />&nbsp;&nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px" height = "50">
 <br>
 <p align="center">
   Hi, I'm Shashwat Wankhedekar, Tech Enthusiast<img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="50px">&nbsp;
@@ -18,8 +18,8 @@
   <br>
   ✨ For collabs, feel free to connect with me...
   <br>
-  📫 How to reach me: &nbsp;&nbsp;<a href = "mailto: shashwatwankhedekar@gmail.com"><img align="center" src="https://camo.githubusercontent.com/9f8403b6cb58d427fe1fcaafdf1cf00299d0bf2ef53b14a5e32e66ccf657876d/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d676d61696c2e737667" height="30" width="40" /></a>&nbsp;&nbsp;
-  <a href = "https://linkedin.com/in/shashwatwankhedekar"><img align="center" src="https://raw.githubusercontent.com/karmathecoder/karmathecoder/main/source/linkedin.gif" height="35" width="40" /></a>
+  📫 How to reach me: &nbsp;&nbsp;<a href = "mailto: shashwatwan@gmail.com"><img align="center" src="https://camo.githubusercontent.com/9f8403b6cb58d427fe1fcaafdf1cf00299d0bf2ef53b14a5e32e66ccf657876d/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f6f676c652d676d61696c2e737667" height="30" width="40" /></a>&nbsp;&nbsp;
+  <a href = "https://linkedin.com/in/shashwatw"><img align="center" src="https://raw.githubusercontent.com/karmathecoder/karmathecoder/main/source/linkedin.gif" height="35" width="40" /></a>
 </p>
 
 <div align="center">
@@ -29,8 +29,8 @@
 <a href="https://twitter.com/shashwatwankhedekar">
     <img height="60" src="https://user-images.githubusercontent.com/60597290/173852545-4b8a3257-69ac-42ad-895e-bb842fd60372.png" />
 </a> 
-<a href="https://www.linkedin.com/in/shashwatwankhedekar/">
-  <img height="60" alt="RashidWassan | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
+<a href="https://www.linkedin.com/in/shashwatw/">
+  <img height="60" alt="Shashwat | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
 </a> 
 <a href="https://www.instagram.com/shashwatwankhedekar">
   <img height="60" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
@@ -50,7 +50,7 @@
 <img height="100" src="https://user-images.githubusercontent.com/60597290/152366195-2a7a5be2-acc8-485c-9908-861bcfaa3f2b.png" />
 <img height="100" src="https://user-images.githubusercontent.com/60597290/164893705-6928f187-fa61-4174-abba-bfd8d93b6fb2.png" />
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatwankhedekar&langs_count=5&theme=omni)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shashwatw&langs_count=5&theme=omni)]()
   <br>  
   </p>
 <hr>
@@ -59,11 +59,11 @@
   < img width="400px" src="https://github-readme-stats.vercel.app/api?username=shashwatwankhedekar&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   -->
   
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=shashwatwankhedekar&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=shashwatw&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
 <!--   <a width="401px" href="http://www.github.com/shashwatwankhedekar"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=snaka&bg_color=1f222e&color=ffffff&line=7c2ae7&point=fe95d5&area_color=7c2ae7&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits " /></a> -->
 
-  [![Shashwat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shashwatwankhedekar&bg_color=1f222e&color=a4aacb&line=7c2ae8&point=fe95d5&area=true&hide_border=true)](https://github.com/shashwatwankhedekar/github-readme-activity-graph)
+  [![Shashwat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shashwatw&bg_color=1f222e&color=a4aacb&line=7c2ae8&point=fe95d5&area=true&hide_border=true)](https://github.com/shashwatw/github-readme-activity-graph)
 
 <!--  
 <div align="center"> <img src="https://github.com/shashwatwankhedekar/shashwatwankhedekar/blob/output/github-contribution-grid-snake.svg" /></div>
