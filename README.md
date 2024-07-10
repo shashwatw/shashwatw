@@ -19,7 +19,7 @@
   ✨ For collabs, feel free to connect with me...
   <br>
   📫 How to reach me: &nbsp;&nbsp;<a href = "mailto: shashwatwan@gmail.com">shashwatwan@gmail.com</a>&nbsp;&nbsp;
-<!--   <a href = "https://linkedin.com/in/shashwatw"><img align="center" src="https://raw.githubusercontent.com/karmathecoder/karmathecoder/main/source/linkedin.gif" height="35" width="40" /></a> -->
+<!--   <a href = "https://linkedin.com/in/shashwatw"><img align="center"  src="https://raw.githubusercontent.com/karmathecoder/karmathecoder/main/source/linkedin.gif" height="35" width="40" /></a> -->
 </p>
 <div align="center">
 <br>
