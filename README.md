@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/shashwatw/">
   <img height="60" alt="Shashwat | LinkedIn"  src="https://user-images.githubusercontent.com/60597290/173852531-4343e250-e3cb-4bdb-b84f-50695c64aa12.png"/>
 </a> 
-<a href="https://www.instagram.com/shashwatwankhedekar">
+<a href="https://www.instagram.com/shashwatwankhedekar"> 
   <img height="60" alt="Rashid Wassan | Instagram"  src="https://user-images.githubusercontent.com/60597290/173852523-c34e15e4-dc3b-4c2a-a5a4-d460b96e4151.png" />
 </a>
 </h5>
